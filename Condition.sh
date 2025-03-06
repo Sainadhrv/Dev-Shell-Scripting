@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "all variables passed $@"
 echo  "number of  variables $#"
-echo "current script using $O"
+echo "current script using $0"
 echo "present  directory $PWD"
 echo "home diectory of current user $HOME"
 echo "which user running this script $USER" 
